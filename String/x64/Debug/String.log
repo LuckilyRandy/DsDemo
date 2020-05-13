@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\works\vs2017\dsdemo\string\kmp.h(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\works\vs2017\dsdemo\string\kmp.h(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\works\vs2017\dsdemo\string\kmp.h(43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  String.vcxproj -> D:\works\VS2017\DsDemo\x64\Debug\String.exe

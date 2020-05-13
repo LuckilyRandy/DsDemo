@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\works\vs2017\dsdemo\jumpgame\源.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  JumpGame.vcxproj -> D:\works\VS2017\DsDemo\x64\Debug\JumpGame.exe

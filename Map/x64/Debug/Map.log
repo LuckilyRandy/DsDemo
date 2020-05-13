@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Map.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Map.cpp
+d:\works\vs2017\dsdemo\map\map.cpp(48): warning C4172: 返回局部变量或临时变量的地址: e
+  Map.vcxproj -> D:\works\VS2017\DsDemo\x64\Debug\Map_Color.exe

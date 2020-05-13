@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\works\vs2017\dsdemo\bintree\bintree.h(150): warning C4305: “参数”: 从“int”到“char”截断
+d:\works\vs2017\dsdemo\bintree\bintree.h(150): warning C4309: “参数”: 截断常量值
+  BinTree.vcxproj -> D:\works\VS2017\DsDemo\x64\Debug\BinTree.exe

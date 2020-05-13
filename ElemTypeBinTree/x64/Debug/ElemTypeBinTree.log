@@ -1,0 +1,30 @@
+﻿  ElemTypeBinTree.cpp
+d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(67): warning C4311: “类型强制转换”: 从“void *”到“ElemType”的指针截断
+          with
+          [
+              ElemType=int
+          ]
+  d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(61): note: 编译 类 模板 成员函数 "int BinTree<int>::draw(int,int,BinTree<int> *)" 时
+  d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(52): note: 参见对正在编译的函数 模板 实例化“int BinTree<int>::draw(int,int,BinTree<int> *)”的引用
+  d:\works\vs2017\dsdemo\elemtypebintree\elemtypebintree.cpp(10): note: 参见对正在编译的 类 模板 实例化 "BinTree<int>" 的引用
+d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(67): warning C4302: “类型强制转换”: 从“void *”到“ElemType”截断
+          with
+          [
+              ElemType=int
+          ]
+d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(12): error C2440: “=”: 无法从“ElemType”转换为“void *”
+          with
+          [
+              ElemType=int
+          ]
+  d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(12): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(11): note: 编译 类 模板 成员函数 "BinTree<int>::BinTree(ElemType)" 时
+          with
+          [
+              ElemType=int
+          ]
+  d:\works\vs2017\dsdemo\elemtypebintree\bintree.h(25): note: 参见对正在编译的函数 模板 实例化“BinTree<int>::BinTree(ElemType)”的引用
+          with
+          [
+              ElemType=int
+          ]
