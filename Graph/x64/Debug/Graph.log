@@ -1,5 +1,5 @@
 ﻿  Graph.cpp
-d:\works\vs2017\dsdemo\graph\algraph.h(64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-d:\works\vs2017\dsdemo\graph\graph.cpp(9): warning C4005: “INFINITY”: 宏重定义
+d:\works\git\dsdemo\graph\algraph.h(64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\works\git\dsdemo\graph\graph.cpp(9): warning C4005: “INFINITY”: 宏重定义
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
-  Graph.vcxproj -> D:\works\VS2017\DsDemo\x64\Debug\Graph.exe
+  Graph.vcxproj -> D:\works\GIT\DsDemo\x64\Debug\Graph.exe

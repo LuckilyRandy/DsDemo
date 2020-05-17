@@ -1,0 +1,5 @@
+﻿  mian.cpp
+d:\works\git\dsdemo\graphplus\algraph.h(64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\works\git\dsdemo\graphplus\mian.cpp(6): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
+  GraphPlus.vcxproj -> D:\works\GIT\DsDemo\x64\Debug\GraphPlus.exe
